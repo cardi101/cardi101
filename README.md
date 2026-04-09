@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm cardi101
 
-**Python developer** building Telegram bots, automation tools & backend services
+**Python Backend Developer** · Telegram bots · Automation · REST APIs
 
 [![Telegram](https://img.shields.io/badge/@Cardinal__GriseX-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Cardinal_GriseX)
 
@@ -12,21 +12,31 @@
 
 ## 🛠 Tech Stack
 
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+
+**Databases & Storage**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-59666C?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| [**kinozal\_bot**](https://github.com/cardi101/kinozal_bot) | Telegram bot for monitoring Kinozal.tv releases with TMDB enrichment — posters, ratings, genres, series status & magnet links | Python · aiogram · PostgreSQL · Redis · Docker |
+|---|---|---|
+| [**kinozal_bot**](https://github.com/cardi101/kinozal_bot) | Telegram bot for monitoring Kinozal.tv releases with TMDB enrichment — posters, ratings, genres, series status & magnet links | Python · aiogram · PostgreSQL · Redis · Docker |
 | [**UltradoxBot**](https://github.com/cardi101/UltradoxBot) | Telegram bot for monitoring new releases on ultadox.space — auto-polling every 5 min, subscriber notifications, multi-mirror support | Python · SQLite · BeautifulSoup4 · Docker |
 
 ---
@@ -35,7 +45,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cardi101&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cardi101&theme=dark&hide_border=true&date_format=%25M%2520%25d%25Y%2C%2520%25A)](https://git.io/streak-stats)
 
 </div>
 
