@@ -27,7 +27,7 @@
 **Infrastructure & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-59666C?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-59666C?style=flat&logo=python&logoColor=white)h
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cardi101&theme=dark&hide_border=true&date_format=%25M%2520%25d%25Y%2C%2520%25A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cardi101&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
