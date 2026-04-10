@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm cardi101
+# 👋 Hi, I'm Cardinal_Grise
 
 **Python Backend Developer** · Telegram bots · Automation · REST APIs
 
