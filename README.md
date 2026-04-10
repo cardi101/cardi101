@@ -36,7 +36,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**kinozal_bot**](https://github.com/cardi101/kinozal_bot) | Telegram bot for monitoring Kinozal.tv releases with TMDB enrichment — posters, ratings, genres, series status & magnet links | Python · aiogram · PostgreSQL · Redis · Docker |
+| [**kinozal_bot**](https://github.com/cardi101/kinozal_bot) | Telegram bot for monitoring Kinozal.tv releases with TMDB enrichment — posters, ratings, genres, series status & magnet links | Python · aiogram · PostgreSQL · Redis · Docker · FastAPI |
 | [**UltradoxBot**](https://github.com/cardi101/UltradoxBot) | Telegram bot for monitoring new releases on ultadox.space — auto-polling every 5 min, subscriber notifications, multi-mirror support | Python · SQLite · BeautifulSoup4 · Docker |
 
 ---
